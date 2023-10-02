@@ -22,5 +22,5 @@ Marketplace Discord Bot is a versatile bot designed to manage a marketplace in y
 
 ## How to Run
 
-1. Clone this repository: `git clone `https://github.com/mightynaughty/VirtualMarketBot`
+1. Clone this repository: `git clone github.com/mightynaughty/VirtualMarketBot`
 2. Install dependencies: `pip install discord.py`
