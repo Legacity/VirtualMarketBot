@@ -59,4 +59,4 @@ async def help(ctx):
     embed.set_footer(text="For more info, type market!help <command>.")
     await ctx.send(embed=embed)
 
-bot.run('MTE1ODA3NzQ1MDg4MjkyNDYyOA.GprM2q.16IJb_GrPiEmetw49bnnkg4Urd0fkwzUSYeB7I')
+bot.run(YOUR TOKEN)
